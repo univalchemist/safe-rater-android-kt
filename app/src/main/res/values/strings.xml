@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">SafeRater</string>
+    <string name="home_sub_title1">Rate our hygiene</string>
+    <string name="home_sub_title2">and safety</string>
+    <string name="submit_title">Submit Rating</string>
+    <string name="lorem">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</string>
+    <string name="rate_us_on">Rate Us On:</string>
+    <string name="mask_usage">Mask Usage</string>
+    <string name="social_distancing">Social Distancing</string>
+    <string name="guidance">Guidance</string>
+    <string name="sanitization">Sanitization</string>
+    <string name="why_rate">The rating will be used to help improve our hygiene and safety methods.</string>
+    <string name="feedback_submitted">Your rating has been submitted </string>
+    <string name="rate_feedback">Thank you for the feedback.  The rating will be used to help improve our hygiene and safety methods.</string>
+    <string name="dismiss">Dismiss</string>
+</resources>
